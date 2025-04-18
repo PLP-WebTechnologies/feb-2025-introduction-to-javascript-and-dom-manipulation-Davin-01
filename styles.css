@@ -31,11 +31,10 @@ section {
 }
 
 /* Text paragraph styling */
-#textContent {
+#dynamicText {
     font-size: 1.2rem;
     line-height: 1.6;
     color: #555;
-    transition: color 0.3s ease;
 }
 
 /* Button styling */
@@ -61,7 +60,7 @@ button:active {
 }
 
 /* Dynamic Section Styling */
-#dynamicSection {
+#dynamicContentSection {
     margin-top: 30px;
 }
 
